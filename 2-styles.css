@@ -33,6 +33,7 @@
     --font-size-large: 16px;
     --font-size-large: 32px;
     --font-size-x-large: 42px;
+    --font-sixe-x-x-large: 46px;
 
     --line-height-base: 26px;
 
@@ -55,7 +56,6 @@
       font-family: var(--font-family);
       font-size: var(--font-size-small);
       color: var(--color-white);
-      background-color: black;
       line-height: var(--line-height-base);
   }
 
@@ -97,6 +97,11 @@
 
   p {
     margin-top: 65px;
+  }
+
+  .section-header > h2 {
+    font-size: var(--font-size-large);
+    font-weight: var(--font-weight-regular);
   }
 
   /* menu container
@@ -172,7 +177,86 @@
     align-items: center;
   }
 
+    /* What we do section
+      ============================= */
 
+    .section-what-we-do {
+      background-color: var(--color-white);
+      color: black;
+      width: 100%;
+      height: auto;
+    }
+    .section-header {
+      width: 637px;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      line-height: 26px;
+      padding-top: 110px;
+      padding-bottom: 104px;
+    }
+
+    .section-body {
+      width: 1002px;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      line-height: 15px;
+      padding-bottom: 103px;
+      padding-left: 10px;
+      padding-right: 10px;
+      justify-content: space-around;
+    }
+
+    .do > p {
+      margin-top: 13px;
+    }
+
+    .icon {
+      font-size: 6em;
+      color: #FF6565;
+    }
+
+  /* What we do Section
+      ============================= */
+
+    .section-our-results {
+      background-color: #172333;
+      background-image: url(./images/headphones_hero_2.jpg);;
+      background-repeat: no-repeat;
+      width: 1400px;
+      height: 650px;
+
+    }
+
+    .pentagon {
+      width: 190px;
+      height: 190px;
+    }
+  
+    .do-results .results{
+      position: absolute;
+      width: 120px;
+      top: 122%;
+      transform: translate(28%, -98%);
+    }
+
+
+
+    div.results h1 {
+      font-size: var(--font-sixe-x-x-large);
+      font-weight: var(--font-weight-bold);
+      padding-top: 21px;
+      padding-bottom: 25px;
+    }
+
+    div.results p {
+      font-size: var(--font-size-medium);
+      margin-top: 0px;
+    }
   /* Media Queries
       ============================= */
 
@@ -203,6 +287,33 @@
       margin-right: 50px;
     }
 
+    .section-body {
+      width: 472px;
+      height: 469px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
+
+    .do {
+      width: 207px;
+      height: 180px;
+    }
+
+    .section-our-results {
+      background-repeat: no-repeat;
+      width: 768px;
+      height: 955px;
+    }
+
+    .do-results .results {
+      /* position: absolute;
+      width: 119px;
+      top: 12px; 
+      transform: translate(33%, -132%); */
+      position: relative;
+      top: -54px;
+    }
   }
 
 /* Media Query for smartphone */
@@ -338,8 +449,31 @@
       border-radius: 32px;
     }
 
-    p {
-      width: 90%;
+    .section-header{
+      width: 325px;
+      height: 288px;
+      padding-top: 49px;
+      padding-bottom: 100px;
+      margin-top: 0px;
     }
+
+    .section-header p {
+      width: 325px;
+      height: 208px;
+    }
+
+    .section-body {
+      width: 207px;
+      height: 1020px;
+      margin-top: 110px;
+      margin-bottom: 110px;
+    }
+
+
+    .section-our-results {
+      width: 375px;
+      height: 1491px;
+    }
+
 
   }
