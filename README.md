@@ -71,7 +71,8 @@ Copy files from the previous task.
 
 For this second task: **create the “What we do…” section**
 
-In this section, you will need custom font icons. Here the archive of it: [holberton_school-icon.zip](https://holbertonintranet.s3.amazonaws.com/uploads/misc/2020/3/7159d988278de54d859d.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210823%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210823T154022Z&amp;X-Amz-Expires=345600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=eb6003fe6d799948d2a32c49f8aed0192e027483ae254a7fbf07308491dbd38a) 
+In this section, you will need custom font icons. Here the archive of it: [holberton_school-icon.zip](https://holbertonintranet.s3.amazonaws.com/uploads/misc/2020/3/7159d988278de54d859d.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210823%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210823T154022Z&amp;X-Amz-Expires=345600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=eb6003fe6d799948d2a32c49f8aed0192e027483ae254a7fbf07308491dbd38a)
+
 Inside you will find demo page of how to use it.
 
 **Important:** try to build as generic as you can… you will probably need some components in next section.
@@ -107,7 +108,7 @@ Last piece of the page… the Footer!
 When you are done, here the result:
 
 **Desktop:**
-
+![Desktop](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/3b5a9f7948a58d58bd43.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210823%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210823T154022Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f2bb0c9b7b9530ef93549dc88dce40faa5ac0d6afc325da0839f68ab09a6cd0c)
 <img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/3b5a9f7948a58d58bd43.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210823%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210823T154022Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f2bb0c9b7b9530ef93549dc88dce40faa5ac0d6afc325da0839f68ab09a6cd0c" alt="" style="">
 
 **Mobile:**
