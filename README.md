@@ -56,8 +56,7 @@ For this first task: **create the header/hero piece**
 Here an archive of all assets needed: [images_0x09.zip](https://holbertonintranet.s3.amazonaws.com/uploads/misc/2020/3/d1597894d79386c83b9b.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210823%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210823T154022Z&amp;X-Amz-Expires=345600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=52c998e3d01e6462b580e530ec54df81d9c59eb4eaf749231fca332fce01006f)
 
 **Desktop:**
-
-<img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/4a93441c93989ad7ea72.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210823%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210823T154022Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=039cf0fab6e5e4d02947b8d722f4317a6d29daf674be0882984f063a84044642" alt="" style="">
+![Desktop](https://github.com/CSant04y/holberton-headphones/blob/master/01_headphones_desktop@2x.png?raw=true)
 
 **Mobile:**
 
