@@ -60,7 +60,7 @@ Here an archive of all assets needed: [images_0x09.zip](https://holbertonintrane
 
 **Mobile:**
 
-<img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/75a582f98640445a2dbf.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210823%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210823T154022Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4cdeb905feff17d5d1fcc42728668cc07d7ad624b8e99fc0a1cea6e65163e73f" alt="" style="">
+![Desktop](https://github.com/CSant04y/holberton-headphones/blob/master/01_headphones_mobile@2x.png?raw=true)
 
 
 ## 2. "What we do..." section
@@ -106,13 +106,6 @@ Last piece of the page… the Footer!
 
 When you are done, here the result:
 
-**Desktop:**
-![Desktop](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/3b5a9f7948a58d58bd43.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210823%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210823T154022Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f2bb0c9b7b9530ef93549dc88dce40faa5ac0d6afc325da0839f68ab09a6cd0c)
-<img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/3b5a9f7948a58d58bd43.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210823%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210823T154022Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f2bb0c9b7b9530ef93549dc88dce40faa5ac0d6afc325da0839f68ab09a6cd0c" alt="" style="">
-
-**Mobile:**
-
-<img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/83d6311e87d4775ca4b3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210823%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210823T154022Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=89fbc7dbd707ef2972590885831b1821a1f81ef9b4fdcb37b4dac6a02191f919" alt="" style="">
 
 And you are done! 
 
