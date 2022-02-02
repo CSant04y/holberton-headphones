@@ -117,3 +117,17 @@ When you are done, here the result:
 And you are done! 
 
 **Good job!**
+
+## About me
+
+### **Carlos Esquivel**
+Carlos Esquivel is originally from Tulsa. After taking a gap year and working in sales, he decided to make a switch into the technology industry to obtain skills in software engineering. As the pandemic hit, Holberton school provided an opportunity to learn and grow in a remote working environment.
+
+As a software engineering student, Carlos enjoys the creative aspects of problem solving such as how collaboration can foster the transfer of knowledge.
+
+* 📖 [Medium](https://1831-9922.medium.com/)
+* :bird:[Twitter](https://twitter.com/esquivelcarlo12)
+
+* :robot: [GitHub](https://github.com/CSant04y)
+
+* :briefcase: [LinkedIn](https://www.linkedin.com/in/carlos-esquivel-515768186/)
