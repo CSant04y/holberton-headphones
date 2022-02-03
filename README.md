@@ -4,30 +4,7 @@
 In this project, you will implement from scratch, without any library, a web page. 
 You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously. 
 You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have a fully functional web page that looks the same as the designer file.
-Here the final result:
-<img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210823%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210823T154022Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=fffcb62407b2bc0fa751b7449b59ca71111e9998fb6802c80d9e2242809067e8" alt="" style="">
-This webpage has been designed by Nicolas Philippot, UI/UX designer.
-You can find final screens [here](https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/622/Archive.zip)
 
-### Requirements
-  + you are not allowed to import external CSS framework (like Bootstrap)
-  + you are not to use Javascript
-
-
-## 0. Read and be familiar with Figma
-Create an account in <a href="/rltoken/eumOUW-eMS4X9ZDZg9KPLg" title="Figma" target="_blank">Figma</a> and open this <a href="/rltoken/2ED3P1a2wnbQqRLi8aXJKw" title="project" target="_blank">project</a> and “Duplicate to your Drafts” to have access to all design details.
-
-Create an account in [Figma](https://intranet.hbtn.io/rltoken/eumOUW-eMS4X9ZDZg9KPLg) and open this [project](https://intranet.hbtn.io/rltoken/2ED3P1a2wnbQqRLi8aXJKw) and “Duplicate to your Drafts” to have access to all design details.
-
-If you can’t access to it, please find here the [Figma file](https://intranet.hbtn.io/rltoken/NxsDNicWs5KSlsR94kt52A)
-
-<img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/559ad8d43fb61e310e2b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210823%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210823T154022Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=7b3b73111dc7a4887362099965ccb17efac799e85f2c26c3a2d43c298a17e291" alt="" style="">
-
-Important notes with Figma:
-  + if your computer doesn’t have missing fonts, you can find them here: [source-sans-pro](https://intranet.hbtn.io/rltoken/wltHny-KZP3B8JFRvpmVjA) and [Spin-Cycle-OT](https://intranet.hbtn.io/rltoken/Qb96K4nTPQJO1paP_OBELw)
-  + some values are in float - feel free to round them
-
-For this task, please write an amazing `README.md`
 
 **Interactions note:**
   + the web page must switch to the mobile version when the screen width is 480px or less
