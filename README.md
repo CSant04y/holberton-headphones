@@ -6,11 +6,6 @@ You will use all HTML/CSS/Accessibility/Responsive design knowledges that you le
 You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have a fully functional web page that looks the same as the designer file.
 
 
-### Requirements
-  + you are not allowed to import external CSS framework (like Bootstrap)
-  + you are not to use Javascript
-
-
 **Interactions note:**
   + the web page must switch to the mobile version when the screen width is 480px or less
   + links hover/active: `#FF6565`
